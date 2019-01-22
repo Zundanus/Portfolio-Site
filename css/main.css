@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body{
+  width: 100vw;
+}
+
+
+.responsiv_default_setting{
+  height: auto;
+  max-width: 100%;
+}
+
+.header_logo .header_text{
+  text-align: center;
+}
