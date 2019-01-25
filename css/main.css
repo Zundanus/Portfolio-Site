@@ -3,53 +3,42 @@
   margin: 0;
   padding: 0;
 }
-
 body{
   width: 100%;
   min-width: 320px;
   max-width: 1024px;
   font-size: 14px;
 }
-
 .responsiv_default_setting{
   height: auto;
   max-width: 100%;
 }
-
 .header{
   box-sizing: border-box;
   display:flex;
   flex-flow: wrap;
   padding: 5px;
-
 }
-
 .header_text{
   width: 80%;
   text-align: right;
 }
-
 .header_logo {
   width: 20%;
 }
-
 .portfolio_image {
   margin: 5px;
 }
-
 .project_container_titel {
     margin-bottom: 5px;
 }
-
 .project_container {
   padding: 30px 5px 10px;
 }
-
 .project_container_item {
   margin-bottom: 30px;
   text-align: center;
 }
-
 .project_titel, .project_inner {
   margin: 5px 0 10px;
 }
